@@ -1,0 +1,17 @@
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\bin\Debug\net7.0\CrudBasico.BSS.deps.json
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\bin\Debug\net7.0\CrudBasico.BSS.dll
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\bin\Debug\net7.0\CrudBasico.BSS.pdb
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\bin\Debug\net7.0\CrudBasico.DAL.dll
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\bin\Debug\net7.0\CrudBasico.Modelos.dll
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\bin\Debug\net7.0\CrudBasico.DAL.pdb
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\bin\Debug\net7.0\CrudBasico.Modelos.pdb
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\obj\Debug\net7.0\CrudBasico.BSS.csproj.AssemblyReference.cache
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\obj\Debug\net7.0\CrudBasico.BSS.GeneratedMSBuildEditorConfig.editorconfig
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\obj\Debug\net7.0\CrudBasico.BSS.AssemblyInfoInputs.cache
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\obj\Debug\net7.0\CrudBasico.BSS.AssemblyInfo.cs
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\obj\Debug\net7.0\CrudBasico.BSS.csproj.CoreCompileInputs.cache
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\obj\Debug\net7.0\CrudBasico.BSS.csproj.CopyComplete
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\obj\Debug\net7.0\CrudBasico.BSS.dll
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\obj\Debug\net7.0\refint\CrudBasico.BSS.dll
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\obj\Debug\net7.0\CrudBasico.BSS.pdb
+D:\CrudBasico\CrudBasico\CrudBasicocapas\CrudBasico.BSS\obj\Debug\net7.0\ref\CrudBasico.BSS.dll

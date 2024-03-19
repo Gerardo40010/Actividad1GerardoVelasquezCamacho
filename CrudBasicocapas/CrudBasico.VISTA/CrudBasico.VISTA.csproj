@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CrudBasico.BSS\CrudBasico.BSS.csproj" />
+    <ProjectReference Include="..\CrudBasico.DAL\CrudBasico.DAL.csproj" />
+    <ProjectReference Include="..\CrudBasico.Modelos\CrudBasico.Modelos.csproj" />
+  </ItemGroup>
+
+</Project>
